@@ -1,0 +1,16 @@
+{
+  "name": "check-combo-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "checkCombo": "./bin/checkCombo"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "request": "^2.79.0"
+  }
+}

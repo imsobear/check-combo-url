@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const checkCombo = require('../lib');
+
+const comboUrl = process.argv[2];
+checkCombo(comboUrl);
